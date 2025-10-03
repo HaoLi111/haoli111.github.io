@@ -76,7 +76,9 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 
 *   **[ModelPlanePower](https://github.com/HaoLi111/ModelPlanePower)**: (R)
 *   **[eXpand](https://github.com/HaoLi111/eXpand)**: Code snippet for expanding 3D surfaces to a 2D projection - useful for building models of complicated 3D forms by folding 2D papers/foamboards or cardboards. (Julia)
-*   **[rAviExp](https://github.com/HaoLi111/rAviExp)**: R library for Model Aviation Exploratory design. (R)
+*   **[rAviExp](https://github.com/HaoLi111/rAviExp)**: R library for Model Aviation Exploratory design. (R) In deed you can still use some web UIs here [Least climbing speed bound](https://haoli111.shinyapps.io/WebrAviExp_LCV/)
+  [design a plane with conventional concept](https://haoli111.shinyapps.io/WebrAviExpConvConcept/)
+[lift/drag and ratio and optimal Cl/Cd w.r.t. angle of attack](https://haoli111.shinyapps.io/WebrAviExp_Angle_of_Attack_standalone/)
 
 
 
