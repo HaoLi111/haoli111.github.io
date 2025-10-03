@@ -1,6 +1,4 @@
-# haoli111.github.io
-
-## Hi there 👋
+## Hi, This is Hao 👋
 
 <!--
 **HaoLi111/HaoLi111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
-Hi, this is Hao. I work on agentic systems and foundation models. 
+I work on agentic systems and foundation models. 
 
 My Google scholar is https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en, most focus on ML+Bio and interpretations of large models. I like to throw information theory and other applied maths, stats into the works (although I am not always lucky). If you really have nothing to do, read my papers.
 
@@ -31,7 +28,8 @@ I embrace and criticize AI at the same time🤔--but what can I do? If we can br
 
 Cheers.
 
+![One of the Fractal images I rendered late 2019](https://github.com/HaoLi111/HaoLi111/blob/main/fig/2_orig.png)
 
-
-![](fig/2_orig.png)
 Figure from my site for fractal rendering: Gallery in Fractal Dimensions https://galleryinfractaldimension-temp.weebly.com/
+
+
