@@ -33,3 +33,51 @@ Cheers.
 Figure from my site for fractal rendering: Gallery in Fractal Dimensions https://galleryinfractaldimension-temp.weebly.com/
 
 
+# Links
+*   **Google Scholar Profile**: [https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en](https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en)
+*   **Paradigm.Study**: [https://www.paradigm.study/](https://www.paradigm.study/)
+*   **HaoLi111 GitHub Profile**: [https://github.com/HaoLi111](https://github.com/HaoLi111)
+
+
+# (Earlier) Project Showcase
+
+
+## 1. Machine Learning and AI Research
+
+
+### Earlier projects on Kaggle and on Hackathons
+
+*   **[sk_in_torch](https://github.com/HaoLi111/sk_in_torch)**: Using PyTorch to fit scikit-learn models--and using GPU/CPU. (Python)
+*   **[ML_BioStats](https://github.com/HaoLi111/ML_BioStats)**: Biostatistics problems on open datasets, Kaggle, hackathons, and eval.ai. (Jupyter Notebook)
+*   **[ChatMyArchive](https://github.com/HaoLi111/ChatMyArchive)**: A lightweight local file source searching repo for multiple files. For 2024 Brown Hackathon. (Jupyter Notebook)
+*   **[LinuxMLTroubleshoot](https://github.com/HaoLi111/LinuxMLTroubleshoot)**: Problems encountered in building machine, trying to remove windows, install linux, conda, pytorch with cuda, rstudio, devtools and more--and how I got through. (Shell)
+
+
+## Math Modeling Code and Math Visualizations
+
+
+*   **[Previewer](https://github.com/HaoLi111/Previewer)**: Previewing datasets with save and systematic statistical approach. (R) submitted to2021 Shiny R Contest https://haoli111.shinyapps.io/Previewer/
+
+
+### Sample code for Meerschaert's Mathematical Modeling (4th ed.), special thanks to the suggestion from the author of the book
+*   **[R sample codes for Meerschaert's Mathematical Modeling (4th ed.)](https://github.com/HaoLi111/R-sample-codes-for-Meerschaert's-Mathematical-Modeling)**: (R)
+*   **[Sage math sample codes](https://github.com/HaoLi111/Mathematical-Modeling-Sage-Math-Sample-Code)** (SageMath, Python 2.7 jupyter notebook or use CoCalc)
+*   **[rMathModeling](https://github.com/HaoLi111/rMathModeling)**: General Math Modeling Tools for R. (R)
+
+## Fractals
+
+*   **[HypercomplexFractal](https://github.com/HaoLi111/HypercomplexFractal)**: Hypercomplex fractal rendering with R. (R)
+*   **[Gallery in Fractal Dimensions](https://galleryinfractaldimension-temp.weebly.com/)**: Figure from my site for fractal rendering.
+*   **[bryanhanson/LindenmayeR](https://github.com/bryanhanson/LindenmayeR)**: Helped with visualizing Lindenmayer or L-Systems in R. (R)
+*   **[1d-mapping-explorations](https://github.com/HaoLi111/1d-mapping-explorations)**: A project to utilize my previous R package (not documented yet) SeriesXplorer on 1d mappings. Detection of periodicity, chaotic behaviors and animated visualizations are the major tasks. (R)
+*   **[Interactive nb files with mathematica](https://github.com/HaoLi111/Interactive-nb-files-with-mathematica)**: For illustration of math concepts, with interactive slidebars. (Mathematica)
+
+## 4. Model Aircraft Design and Computing
+
+*   **[ModelPlanePower](https://github.com/HaoLi111/ModelPlanePower)**: (R)
+*   **[eXpand](https://github.com/HaoLi111/eXpand)**: Code snippet for expanding 3D surfaces to a 2D projection - useful for building models of complicated 3D forms by folding 2D papers/foamboards or cardboards. (Julia)
+*   **[rAviExp](https://github.com/HaoLi111/rAviExp)**: R library for Model Aviation Exploratory design. (R)
+
+
+
+
