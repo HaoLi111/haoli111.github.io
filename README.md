@@ -56,7 +56,7 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 ## Math Modeling Code and Math Visualizations
 
 
-*   **[Previewer](https://github.com/HaoLi111/Previewer)**: Previewing datasets with save and systematic statistical approach. (R) submitted to2021 Shiny R Contest https://haoli111.shinyapps.io/Previewer/
+*   **[Previewer](https://github.com/HaoLi111/Previewer)**: Previewing datasets with save and systematic statistical approach. (R) submitted to2021 Shiny R Contest [try it](https://haoli111.shinyapps.io/Previewer/)
 
 
 ### Sample code for Meerschaert's Mathematical Modeling (4th ed.), special thanks to the suggestion from the author of the book
