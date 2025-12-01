@@ -2,3 +2,11 @@
 title: Hao Li
 description: My Portfolio
 theme: jekyll-theme-minimal
+
+# Enable kramdown for markdown processing
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+# Enable MathJax for mathematical formulas
+mathjax: true

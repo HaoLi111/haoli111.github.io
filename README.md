@@ -28,7 +28,7 @@ I embrace and criticize AI at the same time🤔--but what can I do? If we can br
 
 Cheers.
 
-![One of the Fractal images I rendered late 2019](https://github.com/HaoLi111/HaoLi111/blob/main/fig/2_orig.png)
+![One of the Fractal images I rendered late 2019](https://raw.githubusercontent.com/HaoLi111/HaoLi111/main/fig/2_orig.png)
 
 Figure from my site for fractal rendering: Gallery in Fractal Dimensions https://galleryinfractaldimension-temp.weebly.com/
 
@@ -81,5 +81,5 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 [lift/drag and ratio and optimal Cl/Cd w.r.t. angle of attack](https://haoli111.shinyapps.io/WebrAviExp_Angle_of_Attack_standalone/)
 
 
-$D_{KL} = \int log (\frac{dP}{dQ}) dP$
+$$D_{KL} = \int \log \left(\frac{dP}{dQ}\right) dP$$
 
