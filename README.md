@@ -81,5 +81,5 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 [lift/drag and ratio and optimal Cl/Cd w.r.t. angle of attack](https://haoli111.shinyapps.io/WebrAviExp_Angle_of_Attack_standalone/)
 
 
-
+$D_{KL} = \int log (\frac{dP}{dQ}) dP$
 
