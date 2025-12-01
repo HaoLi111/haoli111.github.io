@@ -38,6 +38,11 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 *   **Paradigm.Study**: [https://www.paradigm.study/](https://www.paradigm.study/)
 *   **HaoLi111 GitHub Profile**: [https://github.com/HaoLi111](https://github.com/HaoLi111)
 
+---
+
+## 📄 Pages
+*   **[Detailed Projects →](projects)** - In-depth project descriptions and demos
+
 
 # (Earlier) Project Showcase
 
