@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I work on agentic systems and foundation models. 
 
-My [Google scholar page](https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en), most focus on ML+Bio and interpretations of large models. I like to throw information theory and other applied maths, stats into the works (although I am not always lucky). If you really have nothing to do, read my papers.
+My [Google scholar page](https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en), most focus on ML+Bio and interpretations of large models. I like to throw information theory and other applied maths, stats into the works (although I am not always lucky). *If you really have nothing to do, read my papers.*
 
 I am lucky to be one of the very first engineers at the startup--[Paradigm.Study](https://www.paradigm.study/). (<- try it! AI for Edu, for students and teachers)
 
@@ -26,11 +26,13 @@ In search for AIs that learns from structures from sciences and informs new stru
 
 Exploring Causal ML and Physics Informed ML, and thinking that they point to a better future.
 
-I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to do something, so I took a few hackathons (and I shamelessly write here: I won some...) went to study Statistics in Columbia University. 
+I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to do something, so I took a few hackathons (and I shamelessly write here: I won some projectors😄), then went to study Statistics in Columbia University. 
 
 I embrace and criticize AI at the same time🤔--but what can I do? If we can bring a little bit of light, then do it. 🔭
 
 Cheers.
+
+Hao Li
 
 ![One of the Fractal images I rendered late 2019](https://raw.githubusercontent.com/HaoLi111/HaoLi111/main/fig/2_orig.png)
 
@@ -49,7 +51,7 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 # (Earlier) Project Showcase
 
 
-## 1. Machine Learning and AI Research
+## Machine Learning
 
 
 ### Earlier projects on Kaggle and on Hackathons
@@ -79,7 +81,7 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 *   **[1d-mapping-explorations](https://github.com/HaoLi111/1d-mapping-explorations)**: A project to utilize my previous R package (not documented yet) SeriesXplorer on 1d mappings. Detection of periodicity, chaotic behaviors and animated visualizations are the major tasks. (R)
 *   **[Interactive nb files with mathematica]([https://github.com/HaoLi111/Interactive-nb-files-with-mathematica](https://github.com/HaoLi111/interactive-graphbook-of-mathematics))**: For illustration of math concepts, with interactive slidebars. (Mathematica)
 
-## 4. Model Aircraft Design and Computing
+## Model Aircraft Design and Computing
 
 *   **[ModelPlanePower](https://github.com/HaoLi111/ModelPlanePower)**: (R)
 *   **[eXpand](https://github.com/HaoLi111/eXpand)**: Code snippet for expanding 3D surfaces to a 2D projection - useful for building models of complicated 3D forms by folding 2D papers/foamboards or cardboards. (Julia)
