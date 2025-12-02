@@ -20,7 +20,11 @@ I work on agentic systems and foundation models.
 
 My [Google scholar page](https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en), most focus on ML+Bio and interpretations of large models. I like to throw information theory and other applied maths, stats into the works (although I am not always lucky). If you really have nothing to do, read my papers.
 
-Also, I am lucky to be one of the very first engineers at the startup--[Paradigm.Study](https://www.paradigm.study/). (<- try it! AI for Edu, for students and teachers)
+I am lucky to be one of the very first engineers at the startup--[Paradigm.Study](https://www.paradigm.study/). (<- try it! AI for Edu, for students and teachers)
+
+In search for AIs that learns from structures from sciences and informs new structures for sciences. Following [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) I've been exploring AI+bio. 
+
+Exploring Causal ML and Physics Informed ML, and thinking that they point to a better future.
 
 I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to do something, so I took a few hackathons (and I shamelessly write here: I won some...) went to study Statistics in Columbia University. 
 
@@ -40,8 +44,6 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 
 ---
 
-## 📄 Pages
-*   **[Detailed Projects →](projects)** - In-depth project descriptions and demos
 
 
 # (Earlier) Project Showcase
@@ -65,7 +67,7 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 
 
 ### Sample code for Meerschaert's Mathematical Modeling (4th ed.), special thanks to the suggestion from the author of the book
-*   **[R sample codes for Meerschaert's Mathematical Modeling (4th ed.)](https://github.com/HaoLi111/R-sample-codes-for-Meerschaert's-Mathematical-Modeling)**: (R)
+*   **[R sample codes for Meerschaert's Mathematical Modeling (4th ed.)]([https://github.com/HaoLi111/R-sample-codes-for-Meerschaert's-Mathematical-Modeling](https://github.com/HaoLi111/Mathematical-Modeling-R-Sample-Code))**: (R)
 *   **[Sage math sample codes](https://github.com/HaoLi111/Mathematical-Modeling-Sage-Math-Sample-Code)** (SageMath, Python 2.7 jupyter notebook or use CoCalc)
 *   **[rMathModeling](https://github.com/HaoLi111/rMathModeling)**: General Math Modeling Tools for R. (R)
 
@@ -75,14 +77,17 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 *   **[Gallery in Fractal Dimensions](https://galleryinfractaldimension-temp.weebly.com/)**: Figure from my site for fractal rendering.
 *   **[bryanhanson/LindenmayeR](https://github.com/bryanhanson/LindenmayeR)**: Helped with visualizing Lindenmayer or L-Systems in R. (R)
 *   **[1d-mapping-explorations](https://github.com/HaoLi111/1d-mapping-explorations)**: A project to utilize my previous R package (not documented yet) SeriesXplorer on 1d mappings. Detection of periodicity, chaotic behaviors and animated visualizations are the major tasks. (R)
-*   **[Interactive nb files with mathematica](https://github.com/HaoLi111/Interactive-nb-files-with-mathematica)**: For illustration of math concepts, with interactive slidebars. (Mathematica)
+*   **[Interactive nb files with mathematica]([https://github.com/HaoLi111/Interactive-nb-files-with-mathematica](https://github.com/HaoLi111/interactive-graphbook-of-mathematics))**: For illustration of math concepts, with interactive slidebars. (Mathematica)
 
 ## 4. Model Aircraft Design and Computing
 
 *   **[ModelPlanePower](https://github.com/HaoLi111/ModelPlanePower)**: (R)
 *   **[eXpand](https://github.com/HaoLi111/eXpand)**: Code snippet for expanding 3D surfaces to a 2D projection - useful for building models of complicated 3D forms by folding 2D papers/foamboards or cardboards. (Julia)
-*   **[rAviExp](https://github.com/HaoLi111/rAviExp)**: R library for Model Aviation Exploratory design. (R) In deed you can still use some web UIs here [Least climbing speed bound](https://haoli111.shinyapps.io/WebrAviExp_LCV/)
+*   **[rAviExp](https://github.com/HaoLi111/rAviExp)**: R library for Model Aviation Exploratory design. (R) In deed you can still use some web UIs here 
+  [Least climbing speed bound](https://haoli111.shinyapps.io/WebrAviExp_LCV/)
+  
   [design a plane with conventional concept](https://haoli111.shinyapps.io/WebrAviExpConvConcept/)
-[lift/drag and ratio and optimal Cl/Cd w.r.t. angle of attack](https://haoli111.shinyapps.io/WebrAviExp_Angle_of_Attack_standalone/)
+
+  [lift/drag and ratio and optimal Cl/Cd w.r.t. angle of attack](https://haoli111.shinyapps.io/WebrAviExp_Angle_of_Attack_standalone/)
 
 
