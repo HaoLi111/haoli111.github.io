@@ -22,7 +22,7 @@ My [Google scholar page](https://scholar.google.com/citations?user=tDsQ2agAAAAJ&
 
 I am lucky to be one of the very first engineers at the startup--[Paradigm.Study](https://www.paradigm.study/). (<- try it! AI for Edu, for students and teachers)
 
-In search for AIs that learns from structures from sciences and informs new structures for sciences. Following [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) I've been exploring AI+bio. One of our work is the OmniCellAgent which helps bring specialized data/tools and literature search together to help cure disease [link, sometimes not online](https://agent.omni-cells.com/) we also build more interpretable and futuristic things--for example...
+In search for AIs that learns from structures from sciences and informs new structures for sciences. Following [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) I've been exploring AI+bio. One of our work is the OmniCellAgent which helps bring specialized data/tools and literature search together to help cure disease [link, experimental](https://agent.omni-cells.com/) we also build more interpretable and futuristic things--for example...
 
 Exploring Causal ML and Physics Informed ML, and thinking that they point to a better future.
 
