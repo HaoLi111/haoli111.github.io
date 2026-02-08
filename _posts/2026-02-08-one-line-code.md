@@ -6,7 +6,7 @@ date: 2026-02-08
 
 ## Suppose you have many cores, and you want a better htop because your terminal space is not big enough.
 
-![one_line_code](../blogs/one_line_code.png)
+![one_line_code]({{ "/assets/images/one_line_code.png" | relative_url }})
 
 This is the julia code that does it (with UnicodePlots.jl). Just run this in bash.
 
