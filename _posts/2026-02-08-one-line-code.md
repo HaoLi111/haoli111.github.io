@@ -1,8 +1,12 @@
-
+---
+layout: default
+title: "One Line Code"
+date: 2026-02-08
+---
 
 ## Suppose you have many cores, and you want a better htop because your terminal space is not big enough.
 
-![one_line_code](one_line_code.png)
+![one_line_code](../blogs/one_line_code.png)
 
 This is the julia code that does it (with UnicodePlots.jl). Just run this in bash.
 
