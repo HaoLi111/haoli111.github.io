@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: " en-US" }}">
 
 <head>
   <meta charset="UTF-8">
@@ -11,6 +11,7 @@
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+  <link rel="stylesheet" href="{{ "/assets/css/copy-button.css" | relative_url }}">
   {% include head-custom.html %}
 
   <!-- MathJax Configuration -->
@@ -79,6 +80,7 @@
     </footer>
   </div>
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/copy-code.js" | relative_url }}"></script>
 </body>
 
 </html>

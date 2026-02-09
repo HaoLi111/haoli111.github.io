@@ -1,0 +1,26 @@
+/* Button style */
+.copy-code-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background-color: #f0f0f0;
+    color: #333;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-size: 12px;
+    cursor: pointer;
+    z-index: 10;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Show button on hover */
+pre:hover .copy-code-button {
+    opacity: 1;
+}
+
+/* Check content style for button if needed */
+.copy-code-button:hover {
+    background-color: #e0e0e0;
+}
