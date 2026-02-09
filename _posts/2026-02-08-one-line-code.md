@@ -4,7 +4,7 @@ title: Monitoring your supercomputer runtime
 date: 2026-02-08
 ---
 
-# M
+# Monitoring your supercomputer runtime
 
 
 Suppose you work on superclusters, there is not a lot you can do to use UI, but you still want something handy.
