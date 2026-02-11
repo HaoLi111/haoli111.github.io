@@ -33,6 +33,12 @@ I used to compete in model airplane aerobatics contests. I learned about chaos a
 
 I embrace and criticize AI at the same time🤔--but what can I do? If we can bring a little bit of light, then do it. 🔭
 
+Here's a video to get a sense of how unuseful my research sometimes is:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1.5em;">
+  <iframe src="https://www.youtube.com/embed/lHjA9uerlQQ?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+</div>
+
 Cheers.
 
 Hao Li
@@ -40,6 +46,8 @@ Hao Li
 ![One of the Fractal images I rendered late 2019](https://raw.githubusercontent.com/HaoLi111/HaoLi111/main/fig/2_orig.png)
 
 Figure from my site for fractal rendering: Gallery in Fractal Dimensions https://galleryinfractaldimension-temp.weebly.com/
+
+
 
 
 # Links
