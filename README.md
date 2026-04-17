@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My research
 
-**The LLM series:** [LLMs — a decomposition story](./blog/llm-dynamics-decomposition/)
+**My LLM series:** [LLMs — a decomposition story](./blog/llm-dynamics-decomposition/)
 
 I work on agentic systems and foundation models, exploring interpretable methods like Causal ML and Physics Informed ML.
 

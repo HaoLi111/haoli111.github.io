@@ -149,7 +149,7 @@ Direct link: [YouTube playlist](https://www.youtube.com/playlist?list=PLJJwa67T0
 ### 1. Overview
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em;">
-  <iframe src="https://www.youtube.com/embed/6m36Yf7Xp8I?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+  <iframe src="https://www.youtube.com/embed/TOGWoqhzN8I?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
 Sets up the prefix continuation framework and the tension between generalization and memorization. Read as dynamics: the question is not "does the model learn the distribution" but "what does the iterated transition operator look like, and when does its trajectory lock onto a training trajectory." The rest of the playlist is decompositions of that one question.
@@ -157,7 +157,7 @@ Sets up the prefix continuation framework and the tension between generalization
 ### 2. Average is Not All You Need in Accessing LLM Risks
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em;">
-  <iframe src="https://www.youtube.com/embed/XWp8v7_207Y?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+  <iframe src="https://www.youtube.com/embed/q6Uft41eGeI?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
 The core methodological complaint: mean-based metrics hide the tail. A low mean memorization rate is compatible with perfect verbatim recall on a small, sensitive subset. In renewal-theory terms, you are being told the average sojourn length of a Markov chain while the distribution of sojourns is heavy-tailed — the average is not the event that hurts you. The video motivates non-parametric, distributional evaluation and the record-value statistics from the paper.
@@ -165,7 +165,7 @@ The core methodological complaint: mean-based metrics hide the tail. A low mean 
 ### 3. Decomposing Sequential Memorization
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em;">
-  <iframe src="https://www.youtube.com/embed/mY8S2z70m_M?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+  <iframe src="https://www.youtube.com/embed/72dOeH_iKIA?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
 The first decomposition: factor the probability of consecutive match into token-level factors and analyze how the factors evolve over sequence position. This is where the geometric-run-length baseline comes from, and where non-stationary hazard rates ($p_j = \alpha j + p_0$) show up as deviations from that baseline. Inter-sample similarity and local data density appear here as the things that bend the hazard rate. But why? this dynamics creates skewness!
@@ -173,7 +173,7 @@ The first decomposition: factor the probability of consecutive match into token-
 ### 4. Bayesian Optimal and Term-Wise Greedy as Two Limits to Sequential Memorization
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em;">
-  <iframe src="https://www.youtube.com/embed/R_S8Zp_m9_8?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+  <iframe src="https://www.youtube.com/embed/lHjA9uerlQQ?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
 The second decomposition, and the one I think is most worth your time. Two theoretical operators bounds its behavior (well, I agree, loosely...) — the sequence-level Bayes-optimal classifier $M_b$ and the term-wise Bayes-optimal classifier $M_t$ — bracket the behavior of real LLM inference. Generalization lives near one limit, memorization near the other, and real models live on the interior. Theorem 2.6 is the condition under which greedy decoding approximates $M_t$ without matching the full distribution — i.e., the model can be locally right without being globally calibrated. This is also the bridge back to classical NLP: $M_t$ is what n-gram models with smoothing were implicitly targeting.
@@ -181,7 +181,7 @@ The second decomposition, and the one I think is most worth your time. Two theor
 ### 5. Proof: Guessing is Not Better (Privacy in Large Language Models)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em;">
-  <iframe src="https://www.youtube.com/embed/Z_vU_yG_p_E?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+  <iframe src="https://www.youtube.com/embed/fUn6-X2_MtA?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
 A proof that verbatim reproduction cannot be explained as lucky sampling — it is a deterministic consequence of the operator's geometry, not a statistical coincidence. Dynamically, this says long prefix-match runs are not random concurrences of Bernoulli trials; they are signatures of the trajectory being pulled into a narrow basin. This is why extreme memorization keeps increasing even while the loss improves: the basin deepens.
@@ -189,7 +189,7 @@ A proof that verbatim reproduction cannot be explained as lucky sampling — it 
 ### 6. Memorization vs. String Algorithm vs. NLP Metrics — Simple Math
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em;">
-  <iframe src="https://www.youtube.com/embed/fXvW_y_Xv_M?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+  <iframe src="https://www.youtube.com/embed/gGa36gKg-oE?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
 Bridges prefix match length with classical string algorithms (Levenshtein, longest common subsequence) and NLP similarity metrics (ROUGE). These metrics weren't designed for tail-diagnosis, but they can be adapted — the video shows how. The broader point: run-length-based measurements on trajectories are an old family of tools, and most of the adaptation is in choosing which statistic of the distribution you report.
@@ -197,7 +197,7 @@ Bridges prefix match length with classical string algorithms (Levenshtein, longe
 ### 7. Reviewing Cumulative Product of Arithmetic Sequence and One Special Case of Memorization
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1em;">
-  <iframe src="https://www.youtube.com/embed/E_vU_yG_p_E?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+  <iframe src="https://www.youtube.com/embed/hLkDgXyls64?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
 Works through the cumulative-product form
