@@ -2,6 +2,7 @@
 layout: default
 title: "LLMs as dynamical systems — a decomposition story"
 date: 2026-04-17
+permalink: /blog/llm-dynamics-decomposition/
 ---
 
 # LLMs as dynamical systems — a decomposition story

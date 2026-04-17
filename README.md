@@ -19,15 +19,17 @@ Here are some ideas to get you started:
 -->
 
 
-I work on agentic systems and foundation models. 
+I work on agentic systems and foundation models, exploring interpretable methods like Causal ML and Physics Informed ML.
 
 My [Google scholar page](https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en), most focus on ML+Bio and interpretations of large models. I like to throw information theory and other applied maths, stats into the works (although I am not always lucky). *If you really have nothing to do, read my papers.*
+
+**Recent research write-up:** [LLMs as dynamical systems — a decomposition story](./blog/llm-dynamics-decomposition/) — on decomposing the LLM transition operator (prefix continuation, term-wise Bayes-optimal classifiers, embedding-similarity gap) and how it surprisingly recovers old friends from information theory, queueing, and classical NLP. Companion [YouTube playlist](https://www.youtube.com/playlist?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX) embedded in the post.
 
 I am lucky to be one of the very first engineers at the startup--[Paradigm.Study](https://www.paradigm.study/). (<- try it! AI for Edu, for students and teachers)
 
 In search for AIs that learns from structures from sciences and informs new structures for sciences. Following [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) I've been exploring AI+bio. One of our work is the OmniCellAgent which helps bring specialized data/tools and literature search together to help cure disease [link, experimental](https://agent.omni-cells.com/) we also build more interpretable and futuristic things--for example...
 
-Exploring Causal ML and Physics Informed ML, and thinking that they point to a better future.
+
 
 I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to do something, so I took a few hackathons (and I shamelessly write here: I won some projectors😄), then went to study Statistics in Columbia University. 
 
