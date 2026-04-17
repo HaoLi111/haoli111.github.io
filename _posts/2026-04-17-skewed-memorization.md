@@ -178,7 +178,7 @@ The second decomposition, and the one I think is most worth your time. Two theor
   <iframe src="https://www.youtube.com/embed/fUn6-X2_MtA?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
-A proof that verbatim reproduction cannot be explained as lucky sampling — it is a deterministic consequence of the operator's geometry, not a statistical coincidence. Dynamically, this says long prefix-match runs are not random concurrences of Bernoulli trials; they are signatures of the trajectory being pulled into a narrow basin. This is why extreme memorization keeps increasing even while the loss improves: the basin deepens.
+A proof that verbatim reproduction cannot be explained as lucky sampling 
 
 ### 6. Memorization vs. String Algorithm vs. NLP Metrics — Simple Math
 
