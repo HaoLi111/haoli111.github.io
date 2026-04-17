@@ -136,13 +136,7 @@ This is also where the work connects to the other threads in my research — age
 
 ## Walkthrough by video
 
-The playlist — **"Quantification and decomposition of LLM and Agents — research"** — walks the same logic at whiteboard pace. Each video is one slice of the decomposition, and below I annotate each with the dynamical-systems reading, not just the memorization one. First, memorization is like: usually, there is none, but sometimes there can be a lot--does that recalls what N. Taleb says about risk management?
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1.5em;">
-  <iframe src="https://www.youtube.com/embed/videoseries?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-</div>
-
-Direct link: [YouTube playlist](https://www.youtube.com/playlist?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX).
+The playlist — **"Quantification and decomposition of LLM and Agents — research"** — walks the same logic at whiteboard pace. Each video is one slice of the decomposition, and below I annotate each with the dynamical-systems reading, not just the memorization one. First, memorization is like: usually, there is none, but sometimes there can be a lot--does that recalls what N. Taleb says about risk management? link: [YouTube playlist](https://www.youtube.com/playlist?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX).
 
 ---
 
