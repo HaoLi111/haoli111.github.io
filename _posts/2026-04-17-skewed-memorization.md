@@ -4,7 +4,7 @@ title: "LLMs as dynamical systems — a decomposition story"
 date: 2026-04-17
 permalink: /blog/llm-dynamics-decomposition/
 ---
-# LLMs as dynamical systems — a decomposition story
+# LLM behaviors and privacy— a decomposition story
 
 *This post is the prose companion to the playlist [Quantification and decomposition of LLM and Agents — research](https://www.youtube.com/playlist?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX) and to our paper [Skewed Memorization in Large Language Models: Quantification and Decomposition](https://arxiv.org/abs/2502.01187). Memorization is the **observable**; the real subject is the **dynamics**.*
 
