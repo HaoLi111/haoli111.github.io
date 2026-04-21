@@ -6,7 +6,8 @@ permalink: /blog/llm-dynamics-decomposition/
 ---
 # LLM behaviors and privacy— a decomposition story
 
-*This post is the prose companion to the playlist [Quantification and decomposition of LLM and Agents — research](https://www.youtube.com/playlist?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX) and to our paper [Skewed Memorization in Large Language Models: Quantification and Decomposition](https://arxiv.org/abs/2502.01187). Memorization is the **observable**; the real subject is the **dynamics**.*
+*This post is the prose companion to the playlist [Quantification and decomposition of LLM and Agents — research](https://www.youtube.com/playlist?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX) and to our paper [Skewed Memorization in Large Language Models: Quantification and Decomposition](https://arxiv.org/abs/2502.01187). In collab with Di Huang, Ziyu Wang and supervised by Amir Rahmani
+Memorization is the **observable**; the key is the **dynamics**.*
 
 ---
 
@@ -18,7 +19,6 @@ Once you say it that way, most of the classical machinery comes back online:
 
 - **Information theory** — the entropy of the next-token distribution, the mutual information between past and future tokens, the KL divergence between the learned transition and the data-generating one.
 - **Queueing and renewal theory** — the run-lengths of "things happening," waiting times between events, geometric and heavy-tailed sojourn distributions.
-- **Dynamical systems** — fixed points, attractors, basins, Lyapunov-style divergence of nearby trajectories, phase transitions.
 - **Classical NLP** — suffix trees, smoothing, back-off, the Bayes-optimal term-wise classifier that n-gram models were implicitly trying to approximate before we had transformers.
 
 Our paper is, on its surface, about memorization in supervised fine-tuning. Under the surface it is a worked example of all four — how decomposing the *transition* (not just the *output*) reveals structure that a loss curve cannot see.
@@ -95,7 +95,7 @@ with $S_\text{input}$ the mean cosine similarity between training *prefixes* and
 
 Read this through the dynamical lens: $\Delta S$ is a coarse measure of how the operator *disperses* nearby starting states. High $\Delta S$ means similar prefixes sit in basins whose trajectories fan out. Low $\Delta S$ means the operator is contractive on this neighborhood — nearby prefixes converge to nearly the same suffix.
 
-**Contractive basins are exactly where memorization concentrates.** Remark 2.7 in the paper is the mathematical statement of this: samples with highly similar prefixes but diverse full sequences memorize less. The memorization tail is not a property of individual samples; it is a property of the *local Lyapunov behavior* of the transition operator over the embedding manifold.
+See Remark 2.7 in the paper
 
 Practically, this means you cannot audit a dataset row by row. The risk of a sample is determined by its neighborhood under the learned operator, and that neighborhood only exists after training.
 
@@ -109,7 +109,7 @@ Three observations, read as dynamical statements:
 
 **1. Worst-case run-lengths grow before loss converges.** On Lavita, max $n_\text{pre}$ exceeds 10 by epoch 10 while training loss is still high, and drifts to ~50 by epoch 100 after the loss has flattened. The dynamics keep evolving after the bulk energy has settled — a classic slow-mode phenomenon. Loss is the order parameter for the mean; it is not the order parameter for the tail.
 
-**2. Dataset composition changes the operator, not just the scores.** Mixing 200 GPTeacher samples into Lavita pushes max $n_\text{pre}$ above 40 at epoch 10 and over 50 by epoch 100 — while Lavita-alone caps around 16. The *same* 200 overlap samples have statistically different memorization (signed-rank test) in the two regimes. The neighborhood changed; the operator's contractivity around those samples changed; the observable changed.
+**2. Dataset composition changes the bounds, not just the scores.** Mixing 200 GPTeacher samples into Lavita pushes max $n_\text{pre}$ above 40 at epoch 10 and over 50 by epoch 100 — while Lavita-alone caps around 16. The *same* 200 overlap samples have statistically different memorization (signed-rank test) in the two regimes. The neighborhood changed; the operator's contractivity around those samples changed; the observable changed.
 
 **3. Memorization is a neighborhood property.** The risk of a sample is a function of the operator restricted to its basin, not of the sample in isolation.
 
@@ -178,7 +178,7 @@ The second decomposition, and the one I think is most worth your time. Two theor
   <iframe src="https://www.youtube.com/embed/fUn6-X2_MtA?list=PLJJwa67T0Zu5P8lx6A6B1YiuMlQgCazaX" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 </div>
 
-A proof that verbatim reproduction cannot be explained as lucky sampling 
+A proof that verbatim reproduction cannot be explained as lucky sampling
 
 ### 6. Memorization vs. String Algorithm vs. NLP Metrics — Simple Math
 
