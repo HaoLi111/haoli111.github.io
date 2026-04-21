@@ -31,7 +31,7 @@ In search for AIs that learns from structures from sciences and informs new stru
 
 [experimental](https://agent.omni-cells.com/) we also build more interpretable and futuristic things--for example...(I will tell you what it is when the manuscript is out on ArXiv or BiorXiv...)
 
-I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to do something, so I took a few hackathons (and I shamelessly write here: I won some projectors😄), then went to study Statistics in Columbia University. I helped building Paradigm. Then I got in [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) because I still want to persue the explanable AI story because it looks more methological and reasonable (and feasible) to me than to others.
+I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to do something, so I took a few hackathons (and I shamelessly write here: I won some projectors😄), then went to study Statistics in Columbia University. I helped building Paradigm. Then I got in [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) because I still want to persue the explanable AI story because it looks more methodological and reasonable (and feasible) to me than to others.
 
 I embrace and criticize AI at the same time🤔--but what can I do? If we can bring a little bit of light, then do it. 🔭
 
