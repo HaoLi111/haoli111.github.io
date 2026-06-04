@@ -1,6 +1,5 @@
 ## Hi, This is Hao 👋
 
-[**My Blog**](./blog)
 
 <!--
 **HaoLi111/HaoLi111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,6 +45,10 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 * **HaoLi111 GitHub Profile**: [https://github.com/HaoLi111](https://github.com/HaoLi111)
 
 ---
+
+
+[**My Blog**](./blog)
+
 
 # (Earlier) Project Showcase
 
