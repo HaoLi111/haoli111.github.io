@@ -17,21 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My research
-
-**My LLM series:** [LLMs — a decomposition story](./blog/llm-dynamics-decomposition/)
-
-I work on agentic systems and foundation models, exploring interpretable methods like Causal ML and Physics Informed ML.
+I work on agentic systems and foundation models, while exploring interpretable methods like Causal ML and Physics Informed ML.
 
 My [Google scholar page](https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en), most focus on ML+Bio and interpretations of large models. I like to throw information theory and other applied maths, stats into the works (although I am not always lucky). *If you really have nothing to do, read my papers.*
 
-I am lucky to be one of the very first engineers at the startup--[Paradigm.Study](https://www.paradigm.study/). (<- try it! AI for Edu, from writing text to adaptive agents and knowledge tracing...)
+I am lucky to be one of the very first engineers at the AI startup in San Jose--[Paradigm.Study](https://www.paradigm.study/). (<- try it! AI for Edu, from writing text to adaptive agents and knowledge tracing...)
 
-In search for AIs that learns from structures from sciences and informs new structures for sciences. Following [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) I've been exploring AI+bio. One of our work is the OmniCellAgent which helps bring specialized data/tools and literature search together to help cure disease [link, (not always online)](https://agent.omni-cells.com/)
+My work  [LLMs — a decomposition story](./blog/llm-dynamics-decomposition/) and some following up LLM-dynamics research ideas has been applied to benchmarking *OpenClaw* and PRs used by their official benchmark repo.
 
-[experimental](https://agent.omni-cells.com/) we also build more interpretable and futuristic things--for example...(I will tell you what it is when the manuscript is out on ArXiv or BiorXiv...)
+But the field that interests me more is on AIs that learns from structures from sciences and informs new structures for sciences. Following [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) I've been exploring AI+bio. One of our work is the OmniCellAgent which helps bring specialized data/tools and literature search together to help cure disease [link, experimental](https://agent.omni-cells.com/) we also build more interpretable and futuristic foundation models with causal and physics structures...
 
-I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to do something, so I took a few hackathons (and I shamelessly write here: I won some projectors😄), then went to study Statistics in Columbia University. I helped building Paradigm. Then I got in [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) because I still want to persue the explanable AI story because it looks more methodological and reasonable (and feasible) to me than to others.
+My history? I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to do something, so I took a few hackathons (and I shamelessly write here: I won some projectors😄), then went to study Statistics in Columbia University. 
 
 I embrace and criticize AI at the same time🤔--but what can I do? If we can bring a little bit of light, then do it. 🔭
 
