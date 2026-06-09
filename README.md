@@ -16,17 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work on agentic systems and foundation models, while exploring interpretable methods like Causal ML and Physics Informed ML.
+I work on agentic systems and foundation models, while exploring interpretable methods like Causal ML, state reconstruction and Physics Informed ML.
+
+Previously, I helped building an AI startup in San Jose--[Paradigm.Study](https://www.paradigm.study/). My work  [LLMs — a decomposition story](./blog/llm-dynamics-decomposition/) and some following up LLM-dynamics research ideas has been applied to benchmarking *OpenClaw* and PRs used by their official benchmark repo.
 
 My [Google scholar page](https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en), most focus on ML+Bio and interpretations of large models. I like to throw information theory and other applied maths, stats into the works (although I am not always lucky). *If you really have nothing to do, read my papers.*
 
-I am lucky to be one of the very first engineers at the AI startup in San Jose--[Paradigm.Study](https://www.paradigm.study/). (<- try it! AI for Edu, from writing text to adaptive agents and knowledge tracing...)
-
-My work  [LLMs — a decomposition story](./blog/llm-dynamics-decomposition/) and some following up LLM-dynamics research ideas has been applied to benchmarking *OpenClaw* and PRs used by their official benchmark repo.
-
 But the field that interests me more is on AIs that learns from structures from sciences and informs new structures for sciences. Following [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) I've been exploring AI+bio. One of our work is the OmniCellAgent which helps bring specialized data/tools and literature search together to help cure disease [link, experimental](https://agent.omni-cells.com/) we also build more interpretable and futuristic foundation models with causal and physics structures...
 
-My history? I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to do something, so I took a few hackathons (and I shamelessly write here: I won some projectors😄), then went to study Statistics in Columbia University. 
+My history? I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to build something, so I took a few hackathons (and I won some mini projectors😄), then went to study Statistics in Columbia University. Why I chose to do research? I noticed there are fundamental gaps, oversights and alternative theories and techniques that has not been explored, and throughout my experiences there are many surprises and beautiful findings yet to be looked at--especially from the problems that are jointly given to us by the nature and the logics.
 
 I embrace and criticize AI at the same time🤔--but what can I do? If we can bring a little bit of light, then do it. 🔭
 
