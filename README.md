@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work on agentic systems and foundation models, while exploring interpretable methods like Causal ML, state reconstruction and Physics Informed ML.
 
-Previously, I helped building an AI startup in San Jose--[Paradigm.Study](https://www.paradigm.study/). My work  [LLMs — a decomposition story](./blog/llm-dynamics-decomposition/) and some following up LLM-dynamics research ideas has been applied to benchmarking *OpenClaw* and PRs used by their official benchmark repo.
+Hi, This is Hao 👋
 
-My [Google scholar page](https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en), most focus on ML+Bio and interpretations of large models. I like to throw information theory and other applied maths, stats into the works (although I am not always lucky). *If you really have nothing to do, read my papers.*
+I work on agentic systems and foundation models, while exploring interpretable methods like Causal ML, state reconstruction, and Physics-Informed ML. Previously, I was a Founding Engineer helping build an EdTech AI startup in San Jose—[Paradigm.Study](url)—where we built scalable adaptive learning agents and knowledge-tracing systems to deliver personalized learning experiences. My research on the decomposition of LLM dynamics (starting from memorization and training dynamics [LLMs — a decomposition story](./blog/llm-dynamics-decomposition/) ) has recently been applied to agent system testing, with my code, proofs, and PRs directly used by the official OpenClaw-ShellBench benchmark repo.
 
-But the field that interests me more is on AIs that learns from structures from sciences and informs new structures for sciences. Following [FuhaiLiAILab](https://github.com/FuhaiLiAiLab) I've been exploring AI+bio. One of our work is the OmniCellAgent which helps bring specialized data/tools and literature search together to help cure disease [link, experimental](https://agent.omni-cells.com/) we also build more interpretable and futuristic foundation models with causal and physics structures...
+If you check out my [Google Scholar page](https://scholar.google.com/citations?user=tDsQ2agAAAAJ&hl=en), you'll see a focus on ML+Bio and the interpretation of large models. I like to throw information theory, stats, and applied math into the works (although I am not always lucky). Currently, I am an AI Research Analyst at WashU Medicine and an incoming WashU Computer Science & Engineering PhD student. Following the [FuhaiLiAILab](https://fuhailiailab.github.io/), I’ve been deeply exploring AI+Bio. One of our works is [OmniCellAgent](https://agent.omni-cells.com/), a multi-agent orchestration system that navigates single-cell omics and biomedical literature to help cure disease. But the field that interests me most is what comes next: building AIs that learn from the structures of science and inform new structures *for* science. I believe the biggest breakthroughs won't come from just scaling data, but from integrating causal and physics structures to create AI that natively understands the underlying rules of the physical and biological world. 
 
-My history? I used to compete in model airplane aerobatics contests. I learned about chaos and fractals (the picture above) because of aero and multi-body problems I knew of when designing model aircrafts. I took math as undergrad at UC Irvine, but wanted to build something, so I took a few hackathons (and I won some mini projectors😄), then went to study Statistics in Columbia University. Why I chose to do research? I noticed there are fundamental gaps, oversights and alternative theories and techniques that has not been explored, and throughout my experiences there are many surprises and beautiful findings yet to be looked at--especially from the problems that are jointly given to us by the nature and the logics.
+My history? I took math as an undergrad at UC Irvine, wanted to build things so I did a few hackathons, and then went on to get my Master's in Statistics at Columbia University. But my fascination with chaos theory, fractals, and complex multi-body systems actually began with a very specific hobby: designing, building, and competing with ultra-lightweight F3P indoor precision aerobatic RC airplanes. Why did I choose to do research? I noticed there are fundamental gaps, oversights, and alternative theories that haven't been explored. Throughout my experiences, there are many surprises and beautiful findings yet to be looked at—especially from the problems jointly given to us by nature and logic.
 
-I embrace and criticize AI at the same time🤔--but what can I do? If we can bring a little bit of light, then do it. 🔭
+I embrace and criticize AI at the same time 🤔—but what can I do? If we can bring a little bit of light, then do it. 🔭
 
-Cheers.
-
+Cheers.  
 Hao Li
+
+
 
 ![One of the Fractal images I rendered late 2019](https://raw.githubusercontent.com/HaoLi111/HaoLi111/main/fig/2_orig.png)
 
@@ -45,7 +45,7 @@ Figure from my site for fractal rendering: Gallery in Fractal Dimensions https:/
 ---
 
 
-[**My Blog**](./blog)
+[**Some earlier blogs**](./blog)
 
 
 # (Earlier) Project Showcase
